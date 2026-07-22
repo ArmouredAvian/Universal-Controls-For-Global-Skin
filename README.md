@@ -1,6 +1,6 @@
 Welcome to Universal Controls for Global Skin GitHub
 
-Use the Issues section and post any problems you find while using the Addon. I will review and try to replicate the issue, then work on fix.
+Use the Issues section and post any problems you find while using the Addon. I will review and try to replicate the issue, then work on a fix.
 
 PLEASE DO NOT USE THIS PAGE TO ASK BASIC QUESTIONS
 
